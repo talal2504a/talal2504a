@@ -1,15 +1,54 @@
 # 💫 About Me:
-experiences. Skilled in both frontend and backend technologies, with a strong focus on clean code, performance, and problem-solving.<br><br>🔹 Tech Stack: JavaScript, React, Node.js, Express, MongoDB, SQL<br>🔹 Frontend: HTML, CSS, Tailwind, Bootstrap<br>🔹 Backend: REST APIs, Authentication, Database Design<br>🔹 Tools: Git, GitHub, VS Code, Postman
 
+Hi 👋, I'm Talal — a passionate Full Stack Developer 💻
+I build modern, responsive, and scalable web applications with clean code and strong problem-solving skills.
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2405a&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2405a&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2405a&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+🌐 **Portfolio:**
+👉 https://talal2504a.github.io/portfolio/
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2405a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Tech Stack:
+
+### 💻 Languages
+
+JavaScript | C | C++ | C#
+
+### 🎨 Frontend
+
+HTML | CSS | Tailwind | Bootstrap | React
+
+### ⚙️ Backend
+
+Node.js | Express.js | REST APIs | Authentication
+
+### 🗄️ Database
+
+MongoDB | SQL
+
+### 🛠️ Tools
+
+Git | GitHub | VS Code | Postman
+
+---
+
+# 📊 GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=2405a\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=2405a\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2405a\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)
+
+---
+
+# 🌐 Connect With Me:
+
+💼 Portfolio: https://talal2504a.github.io/portfolio/
+📂 GitHub: https://github.com/2405a
+
+---
+
+# 👀 Visitors Count
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=2405a\&icon=0\&color=0)
