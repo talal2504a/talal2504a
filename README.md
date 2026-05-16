@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&section=header&text=Talal%20Memon&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&section=header&text=Talal%20Farooq&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hey+👋+I'm+Talal+Memon;Full+Stack+Developer+🚀;AI+Engineer+🤖;Automation+Architect+⚡;React+%7C+Next.js+%7C+Node.js+🔥;AI+Agents+%7C+LangChain+%7C+RAG+🧠;Building+Scalable+Systems+🌍" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hey+👋+I'm+Talal+Farooq;Full+Stack+Developer+🚀;AI+Engineer+🤖;Automation+Architect+⚡;React+%7C+Next.js+%7C+Node.js+🔥;AI+Agents+%7C+LangChain+%7C+RAG+🧠;Building+Scalable+Systems+🌍" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -124,6 +124,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2405a&theme=tokyonight&hide_border=true&show_icons=true"/>
+
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=2405a&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
@@ -140,8 +141,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake-dark.svg"/>
+  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake.svg"/>
+  
   <img alt="snake animation" src="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake-dark.svg"/>
+  
 </picture>
 
 </div>
@@ -153,7 +157,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-talal2504a.github.io-00D4FF?style=for-the-badge&labelColor=0d1117)](https://talal2504a.github.io/portfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-2405a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2405a)
+
 [![Email](https://img.shields.io/badge/Email-talal2504a@aptechsite.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talal2504a@aptechsite.net)
 
 </div>
