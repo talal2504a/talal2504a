@@ -58,13 +58,26 @@
 
 ---
 
-# 🚀 2026 Tech Stack
+# 🚀 That's all language ik
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs"/>
+
+</td>
+<td width="50%" align="center">
+
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:98.08%;position:relative;"><iframe width="260" height="255" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/ary83x"></iframe></div><p><a href="https://imgflip.com/gif/ary83x">via Imgflip</a></p></div>
+
+</td>
+</tr>
+</table>
 
 ---
 
