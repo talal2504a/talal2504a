@@ -1,3 +1,26 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&section=header&text=Talal%20Memon&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hey+👋+I'm+Talal+Memon;Full+Stack+Developer+🚀;AI+Engineer+🤖;Automation+Architect+⚡;React+%7C+Next.js+%7C+Node.js+🔥;AI+Agents+%7C+LangChain+%7C+RAG+🧠;Building+Scalable+Systems+🌍" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d4ff?style=for-the-badge&labelColor=0d1117)](https://talal2504a.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-2405a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2405a)
+[![Open To Work](https://img.shields.io/badge/🟢_Open_To_Work-Available-00ff88?style=for-the-badge&labelColor=0d1117)](https://talal2504a.github.io/portfolio/)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=2405a&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/2405a?label=Followers&style=for-the-badge&color=7b2ff7" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ## 🧠 About Me
 
 🚀 Full Stack Developer focused on building scalable web applications, AI-powered tools, and workflow automation systems.
@@ -17,6 +40,8 @@
 - Scalable Backend Architecture
 
 ⚡ I enjoy turning ideas into real-world products that solve problems and save time.
+
+<br clear="right"/>
 
 ---
 
@@ -76,6 +101,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -90,3 +116,52 @@
 - Contribute to Open Source
 - Build SaaS products powered by AI
 - Create powerful automation systems using AI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=2405a&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=2405a&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2405a&theme=tokyonight&hide_border=true&layout=donut"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/2405a/2405a/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-talal2504a.github.io-00D4FF?style=for-the-badge&labelColor=0d1117)](https://talal2504a.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-2405a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2405a)
+[![Email](https://img.shields.io/badge/Email-talal2504a@aptechsite.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talal2504a@aptechsite.net)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer"/>
+
+</div>
