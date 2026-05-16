@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Talal%20Farooq&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20AI%20Developer%20|%20Automation%20Architect&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Full+Stack+Software+Engineer+🚀;AI+Agents+%26+Automation+Developer+🤖;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Smart+Systems+for+the+Future+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Full+Stack+Software+Engineer+🚀;AI+Agents+%26+Automation+Developer+🤖;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Smart+Systems+for+the+Future+⚡"/>
 
 <br/><br/>
 
@@ -28,7 +28,11 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
 
 ### 👨‍💻 Talal Farooq
 
@@ -40,7 +44,17 @@
 - 🎯 Focused on MERN Stack, Next.js & AI Integrations  
 - 🛠 Automating workflows using n8n & APIs  
 
-<br clear="right"/>
+</td>
+
+<td width="45%">
+
+<img src="https://i.imgflip.com/ary75a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -50,27 +64,27 @@
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs"/>
 
 ---
 
 ## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,bootstrap,vite"/>
 
 ---
 
 ## ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,postgres"/>
 
 ---
 
 ## 🤖 AI / Automation / Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
@@ -84,7 +98,7 @@
 
 ## 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux"/>
 
 </div>
 
