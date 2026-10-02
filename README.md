@@ -40,7 +40,7 @@
 
 ### 👨‍💻 Talal Farooq
 
-- 🚀 Software Engineer
+- 🚀 Software Engineer at **Diwan International**
 - 🏗️ Built the company's **Stock / Inventory Management System** together with my junior team
 - 🤖 Use AI coding tools (**Claude, OpenCode, Cline, Kilo Code**) on free tokens to ship real solutions at near-zero cost for the company
 - 🧩 Use **OpenCode at Claude-level quality** with **custom skills** tailored to my workflow
@@ -56,7 +56,7 @@
 
 <td width="45%">
 
-<img src="https://i.imgflip.com/ary75a.gif" width="100%"/>
+<img src="./assets/about.gif" width="100%"/>
 
 </td>
 </tr>
@@ -91,24 +91,36 @@
 
 ## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,alpinejs,redux,html,css,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,alpinejs,redux,html,css,bootstrap,vite,figma"/>
 
 ---
 
 ## ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,fastapi,mongodb,mysql,postgres,supabase,firebase"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,laravel,php,fastapi,python,wordpress"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge"/>
 
 ---
 
 ## 🤖 AI / Automation / Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,aws,linux"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode_(Custom_Skills)-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cline-4B5563?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kilo_Code-F4B400?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -118,6 +130,17 @@
 <img src="https://img.shields.io/badge/Flowise-00C4B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG_Systems-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+
+---
+
+## 🔐 Security
+
+<img src="https://img.shields.io/badge/SQL_Injection_Protection-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XSS_Prevention-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Password_Hashing-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Env_Secrets-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-DC2626?style=for-the-badge"/>
 
 ---
 
@@ -162,7 +185,7 @@
 | ⚖️ **LegalConnect Pakistan** | Lawyer-client platform with 3 role dashboards, appointment booking, real-time chat | Laravel 8, PHP 8.1, MySQL, Tailwind, Alpine.js | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/lawyer-uk) |
 | 🎫 **HelpDesk AI** | Ticketing system with real-time updates and AI ticket classification | ASP.NET Core 8, SQL Server, SignalR, React, JWT | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/helpdesk-ai) |
 | 📄 **ResumeAI** | AI resume builder, ATS optimizer and job match | Next.js, TypeScript, FastAPI, Supabase | 🟢 Live (free hosting) | [🌐 Live Demo](https://resume-ai-pi-blue.vercel.app/) |
-| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) | clint didn allowd to share url |
+| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) | Coming soon |
 
 > 🌍 All projects are deployed for free and open to 3 users/roles at a time. Live links are in the pinned repos and my [portfolio](https://talal2504a.github.io/portfolio/).
 
