@@ -56,7 +56,9 @@
 
 <td width="45%">
 
-<img src="./assets/about.gif" width="100%"/>
+<a href="https://gifs.alphacoders.com/gifs/view/219880">
+<img src="https://giffiles.alphacoders.com/219/219880.gif" width="100%"/>
+</a>
 
 </td>
 </tr>
