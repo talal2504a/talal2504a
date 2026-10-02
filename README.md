@@ -40,7 +40,7 @@
 
 ### 👨‍💻 Talal Farooq
 
-- 🚀 Software Engineer at **Diwan International**
+- 🚀 Software Engineer
 - 🏗️ Built the company's **Stock / Inventory Management System** together with my junior team
 - 🤖 Use AI coding tools (**Claude, OpenCode, Cline, Kilo Code**) on free tokens to ship real solutions at near-zero cost for the company
 - 🧩 Use **OpenCode at Claude-level quality** with **custom skills** tailored to my workflow
@@ -162,7 +162,7 @@
 | ⚖️ **LegalConnect Pakistan** | Lawyer-client platform with 3 role dashboards, appointment booking, real-time chat | Laravel 8, PHP 8.1, MySQL, Tailwind, Alpine.js | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/lawyer-uk) |
 | 🎫 **HelpDesk AI** | Ticketing system with real-time updates and AI ticket classification | ASP.NET Core 8, SQL Server, SignalR, React, JWT | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/helpdesk-ai) |
 | 📄 **ResumeAI** | AI resume builder, ATS optimizer and job match | Next.js, TypeScript, FastAPI, Supabase | 🟢 Live (free hosting) | [🌐 Live Demo](https://resume-ai-pi-blue.vercel.app/) |
-| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) | Coming soon |
+| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) | clint didn allowd to share url |
 
 > 🌍 All projects are deployed for free and open to 3 users/roles at a time. Live links are in the pinned repos and my [portfolio](https://talal2504a.github.io/portfolio/).
 
