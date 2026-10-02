@@ -83,7 +83,9 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://i.imgflip.com/ary83x.gif" width="260"/>
+<a href="https://gifs.alphacoders.com/gifs/view/14356">
+<img src="https://giffiles.alphacoders.com/143/14356.gif" width="260"/>
+</a>
 
 </td>
 </tr>
