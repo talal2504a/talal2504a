@@ -1,6 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,40:1A1A1A,100:4A4A4A&text=Talal%20Farooq&fontSize=72&fontColor=ffffff&stroke=E50914&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%F0%9F%93%93%20Software%20Engineer%20%E2%80%A2%20AI-Assisted%20Developer%20%E2%80%A2%20Automation%20Architect%20%F0%9F%8D%8E&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,40:1A1A1A,100:4A4A4A&text=Talal%20Farooq&fontSize=72&fontColor=ffffff&stroke=E50914&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI-Assisted%20Developer%20%E2%80%A2%20Automation%20Architect&descAlignY=60&descSize=18"/>
+
+<br/>
+
+<img src="./apple.png" width="90" alt="apple"/>
+&nbsp;&nbsp;
+<img src="./deathnote_book.png" width="150" alt="Death Note"/>
+&nbsp;&nbsp;
+<img src="./apple.png" width="90" alt="apple"/>
+
+<br/>
 
 <pre>
 ┌──────────────────────────────────────────────────────────┐
@@ -10,7 +20,7 @@
 └──────────────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Software+Engineer+🚀;ASP.NET+Core+%7C+Express.js+%7C+Laravel+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+SQL+Server;AI+Agents+%26+Automation+Developer+🤖;The+human+whose+bug+is+written+in+this+note+shall+be+fixed+📓;I+am+the+God+of+clean+code+🍎"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Software+Engineer+🚀;ASP.NET+Core+%7C+Express.js+%7C+Laravel+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+SQL+Server;AI+Agents+%26+Automation+Developer+🤖;The+human+whose+bug+is+written+in+this+note+shall+be+fixed+📓"/>
 
 <br/><br/>
 
@@ -314,6 +324,16 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:4A4A4A,60:1A1A1A,100:000000&text=%22I%20am%20Justice%21%22&fontSize=34&fontColor=ffffff&stroke=E50914&strokeWidth=2&fontAlignY=60&desc=%F0%9F%8D%8E%20Ryuk%20says%3A%20ship%20it.&descAlignY=82&descSize=16&section=footer"/>
+<br/>
+
+<img src="./apple.png" width="90" alt="apple"/>
+&nbsp;&nbsp;
+<img src="./deathnote_book.png" width="150" alt="Death Note"/>
+&nbsp;&nbsp;
+<img src="./apple.png" width="90" alt="apple"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:4A4A4A,60:1A1A1A,100:000000&text=%22I%20am%20Justice%21%22&fontSize=34&fontColor=ffffff&stroke=E50914&strokeWidth=2&fontAlignY=60&desc=Ryuk%20says%3A%20ship%20it.&descAlignY=82&descSize=16&section=footer"/>
 
 </div>
