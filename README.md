@@ -40,9 +40,12 @@
 
 ### 👨‍💻 Talal Farooq
 
-- 🚀 Software Engineer
+- 🚀 Software Engineer at **Diwan International**
 - 🏗️ Built the company's **Stock / Inventory Management System** together with my junior team
 - 🤖 Use AI coding tools (**Claude, OpenCode, Cline, Kilo Code**) on free tokens to ship real solutions at near-zero cost for the company
+- 🧩 Use **OpenCode at Claude-level quality** with **custom skills** tailored to my workflow
+- 🔐 Security-first: no secret or data leaks, protection against **SQL injection**, XSS and other common attacks
+- ⚡ Focused on **delivering fast**, working solutions without cutting corners
 - 🌍 **Deployed my projects live on free hosting**, so anyone (3 roles/users) can try them easily
 - ⚡ Strong in **ASP.NET Core, Express.js, Next.js, React, Laravel, FastAPI**
 - 🧠 Exploring AI Agents, RAG Systems & Cloud Architecture
@@ -126,6 +129,18 @@
 
 ---
 
+# 🧠 How I Work
+
+<div align="center">
+
+| ⚡ Speed | 🧩 Custom Skills | 🔐 Security |
+|---|---|---|
+| Ship working features fast using AI-assisted development | OpenCode set up with my own custom skills, getting Claude-level results | Parameterized queries against SQL injection, input validation, hashed passwords (bcrypt / PBKDF2), JWT auth, secrets kept in environment variables, never in code |
+
+</div>
+
+---
+
 # 💼 Work Highlight
 
 <div align="center">
@@ -142,12 +157,12 @@
 
 <div align="center">
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| ⚖️ **LegalConnect Pakistan** | Lawyer-client platform with 3 role dashboards, appointment booking, real-time chat | Laravel 8, PHP 8.1, MySQL, Tailwind, Alpine.js | 🟢 Live (free hosting) |
-| 🎫 **HelpDesk AI** | Ticketing system with real-time updates and AI ticket classification | ASP.NET Core 8, SQL Server, SignalR, React, JWT | 🟢 Live (free hosting) |
-| 📄 **ResumeAI** | AI resume builder, ATS optimizer and job match | Next.js, TypeScript, FastAPI, Supabase | 🟢 Live (free hosting) |
-| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) |
+| Project | Description | Tech | Status | Links |
+|---|---|---|---|---|
+| ⚖️ **LegalConnect Pakistan** | Lawyer-client platform with 3 role dashboards, appointment booking, real-time chat | Laravel 8, PHP 8.1, MySQL, Tailwind, Alpine.js | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/lawyer-uk) |
+| 🎫 **HelpDesk AI** | Ticketing system with real-time updates and AI ticket classification | ASP.NET Core 8, SQL Server, SignalR, React, JWT | 🟢 Live (free hosting) | [💻 Code](https://github.com/talal2504a/helpdesk-ai) |
+| 📄 **ResumeAI** | AI resume builder, ATS optimizer and job match | Next.js, TypeScript, FastAPI, Supabase | 🟢 Live (free hosting) | [🌐 Live Demo](https://resume-ai-pi-blue.vercel.app/) |
+| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) | Coming soon |
 
 > 🌍 All projects are deployed for free and open to 3 users/roles at a time. Live links are in the pinned repos and my [portfolio](https://talal2504a.github.io/portfolio/).
 
