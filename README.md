@@ -1,23 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Talal%20Farooq&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Integrations%20|%20Automation&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Talal%20Farooq&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI-Assisted%20Developer%20|%20Automation%20Architect&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Full+Stack+Developer+🚀;Laravel+%7C+ASP.NET+Core+%7C+React+%7C+Next.js;AI-powered+apps+%26+automation+🤖;Building+practical+systems+that+save+time+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Software+Engineer+🚀;ASP.NET+Core+%7C+Express.js+%7C+Laravel+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+SQL+Server;AI+Agents+%26+Automation+Developer+🤖;Building+Smart+Systems+for+the+Future+⚡"/>
 
 <br/><br/>
 
-<a href="https://github.com/2405a">
-<img src="https://img.shields.io/badge/GitHub-2405a-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/talal2504a">
+<img src="https://img.shields.io/badge/GitHub-talal2504a-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/talalfarooq/">
 <img src="https://img.shields.io/badge/LinkedIn-Talal_Farooq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://talal2504a.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Live_Now-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="mailto:talal2504a@aptechsite.net">
+
+<a href="mailto:talal2504a@aptechsite.net?subject=Hello%20Talal&body=Hi%20Talal%2C%0A%0A">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=talal2504a&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -25,67 +32,126 @@
 
 # 💫 About Me
 
-Full Stack Developer from Karachi, Pakistan 🇵🇰. I build web applications end to end: frontend, backend, APIs and databases. Currently I work as a Full Stack Developer Intern at **Diwan International**, where I build internal tools for stock management, container and pallet handling, and daily operations.
-
-- 🚀 Building full stack apps with **Laravel, ASP.NET Core, React/Next.js and FastAPI**
-- 🤖 Integrating **LLMs and AI APIs** into real products
-- ⚙️ Automating workflows with **n8n** and APIs
-- 🖥️ Turning web apps into desktop `.exe` apps for easy use by non-technical staff
-- 📚 Currently learning: Cloud, DevOps, RAG systems
-
----
-
-# 🚀 Featured Projects
-
-| Project | What it does | Tech Stack |
-|---|---|---|
-| ⚖️ **LegalConnect Pakistan** | Legal services platform connecting lawyers and clients. Multi-role dashboards (Admin, Lawyer, Customer), slot-based appointment booking, real-time chat, lawyer directory with filters, legal blog. | Laravel 8, PHP 8.1, MySQL, Tailwind CSS, Alpine.js |
-| 🎫 **HelpDesk AI** | Support ticketing system with role-based access, full ticket lifecycle with audit trail, real-time updates, and AI ticket classification with suggested replies. | ASP.NET Core 8, SQL Server, EF Core, SignalR, React, JWT, Docker |
-| 📄 **ResumeAI** | AI platform to build, analyze and improve resumes. Includes ATS optimizer, job match, AI detector and templates. | Next.js, TypeScript, FastAPI, Supabase, OpenRouter API |
-| 🕌 **Sahara** | Islamic companion web app with prayer times, Hadith, Dua, Tasbeeh counter and a custom WordPress plugin to manage mosque timings per city. | WordPress, PHP, Elementor, Tailwind CSS, JavaScript |
-
-> 🔗 Live links and source code are in my pinned repositories and [portfolio](https://talal2504a.github.io/portfolio/).
-
----
-
-# 🛠 Tech Stack
-
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,c,cpp"/>
+<table>
+<tr>
+<td width="55%">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,alpinejs,html,css,bootstrap,vite"/>
+### 👨‍💻 Talal Farooq
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,fastapi,nodejs,express,mysql,postgres,mongodb,supabase,firebase"/>
+- 🚀 Software Engineer at **Diwan International**
+- 🏗️ Built the company's **Stock / Inventory Management System** together with my junior team
+- 🤖 Use AI coding tools (**Claude, OpenCode, Cline, Kilo Code**) on free tokens to ship real solutions at near-zero cost for the company
+- 🌍 **Deployed my projects live on free hosting**, so anyone (3 roles/users) can try them easily
+- ⚡ Strong in **ASP.NET Core, Express.js, Next.js, React, Laravel, FastAPI**
+- 🧠 Exploring AI Agents, RAG Systems & Cloud Architecture
+- 🔥 Passionate about solving real-world business problems with code
+- 🛠 Automating workflows using n8n & APIs
 
-### 🤖 AI / Automation / DevOps
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,aws"/>
+</td>
 
-<br/><br/>
+<td width="45%">
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA5800?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
+<img src="https://i.imgflip.com/ary75a.gif" width="100%"/>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 💼 Experience
+# 🚀 That's all language ik
 
-**Full Stack Developer Intern, Diwan International Pvt Ltd** (Jan 2026 – Present)
-- Built web systems for stock-in, stock-out, container and pallet management
-- Designed and managed databases for company operational data
-- Packaged web apps as desktop `.exe` applications for easy staff access
-- Used AI tools, APIs and automation to cut manual work while keeping costs low
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,c,cpp"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://i.imgflip.com/ary83x.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,alpinejs,redux,html,css,bootstrap,vite"/>
+
+---
+
+## ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,fastapi,mongodb,mysql,postgres,supabase,firebase"/>
+
+---
+
+## 🤖 AI / Automation / Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cline-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kilo_Code-F4B400?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA5800?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flowise-00C4B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge"/>
+
+---
+
+## 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux"/>
+
+</div>
+
+---
+
+# 💼 Work Highlight
+
+<div align="center">
+
+| 🏢 Company | 🧩 What I built | 🛠 Stack |
+|---|---|---|
+| **Diwan International Pvt Ltd** | Stock-in / Stock-out inventory system with container and pallet management, built with my junior team. Converted into a desktop `.exe` so staff can open it without typing a website address. | Web app + API + Database, AI-assisted development |
+
+</div>
+
+---
+
+# 📦 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| ⚖️ **LegalConnect Pakistan** | Lawyer-client platform with 3 role dashboards, appointment booking, real-time chat | Laravel 8, PHP 8.1, MySQL, Tailwind, Alpine.js | 🟢 Live (free hosting) |
+| 🎫 **HelpDesk AI** | Ticketing system with real-time updates and AI ticket classification | ASP.NET Core 8, SQL Server, SignalR, React, JWT | 🟢 Live (free hosting) |
+| 📄 **ResumeAI** | AI resume builder, ATS optimizer and job match | Next.js, TypeScript, FastAPI, Supabase | 🟢 Live (free hosting) |
+| 🕌 **Sahara** | Islamic companion app with custom prayer-times plugin | WordPress, PHP, Elementor, Tailwind | 🟢 Live (free hosting) |
+
+> 🌍 All projects are deployed for free and open to 3 users/roles at a time. Live links are in the pinned repos and my [portfolio](https://talal2504a.github.io/portfolio/).
+
+</div>
 
 ---
 
@@ -93,12 +159,43 @@ Full Stack Developer from Karachi, Pakistan 🇵🇰. I build web applications e
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=2405a&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=2405a&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=talal2504a&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=talal2504a&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2405a&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talal2504a&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=talal2504a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talal2504a&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/talal2504a/talal2504a/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -106,30 +203,48 @@ Full Stack Developer from Karachi, Pakistan 🇵🇰. I build web applications e
 
 # ⚡ Current Focus
 
+<div align="center">
+
 ```txt
-🚀 Building AI-powered SaaS products (ResumeAI: freemium plans, recruiter dashboard)
-🤖 AI agents and n8n automation
-🏗️ Clean architecture and scalable backends
-☁️ Cloud and DevOps fundamentals
+🚀 Building AI SaaS Products
+🤖 AI Agents & Automation
+⚡ Scalable ASP.NET Core, Express.js & Next.js Applications
+🧰 AI-assisted development with Claude, OpenCode, Cline & Kilo
+☁️ Cloud & DevOps Learning
+🔗 API Integrations & Workflows
 ```
+
+</div>
 
 ---
 
-# 📬 Let's Connect
-
-I'm open to internships and junior full stack roles. Feel free to reach out!
+# 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/talal2504a">
+<img src="https://img.shields.io/badge/GitHub-talal2504a-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/talalfarooq/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://talal2504a.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="mailto:talal2504a@aptechsite.net">
-<img src="https://img.shields.io/badge/Email-talal2504a@aptechsite.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:talal2504a@aptechsite.net?subject=Hello%20Talal&body=Hi%20Talal%2C%0A%0A">
+<img src="https://img.shields.io/badge/Gmail-talal2504a@aptechsite.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br/><br/>
 
