@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="720" alt="Talal Farooq"/>
+<a href="https://gifs.alphacoders.com/gifs/view/147377">
+<img src="https://giffiles.alphacoders.com/147/147377.gif" width="720" alt="Talal Farooq"/>
+</a>
 
 <h1>Talal Farooq</h1>
 <h3>Software Engineer • AI-Assisted Developer • Automation Architect</h3>
@@ -293,6 +295,8 @@
 
 <br/><br/>
 
-<img src="./assets/header.gif" width="720" alt="I am Justice"/>
+<a href="https://gifs.alphacoders.com/gifs/view/147377">
+<img src="https://giffiles.alphacoders.com/147/147377.gif" width="720" alt="I am Justice"/>
+</a>
 
 </div>
