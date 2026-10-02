@@ -40,7 +40,7 @@
 
 ### 👨‍💻 Talal Farooq
 
-- 🚀 Software Engineer at **Diwan International**
+- 🚀 Software Engineer
 - 🏗️ Built the company's **Stock / Inventory Management System** together with my junior team
 - 🤖 Use AI coding tools (**Claude, OpenCode, Cline, Kilo Code**) on free tokens to ship real solutions at near-zero cost for the company
 - 🌍 **Deployed my projects live on free hosting**, so anyone (3 roles/users) can try them easily
