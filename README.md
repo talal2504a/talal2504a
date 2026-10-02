@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="./apple.png" width="90" alt="apple"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f34e.png" width="80" alt="apple"/>
 &nbsp;&nbsp;
-<img src="./deathnote_book.png" width="150" alt="Death Note"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=000000&text=DEATH%20NOTE&fontSize=34&fontColor=ffffff&stroke=FFFFFF&strokeWidth=2&fontAlignY=42&desc=How%20to%20use&descAlignY=72&descSize=14" width="300" alt="Death Note"/>
 &nbsp;&nbsp;
-<img src="./apple.png" width="90" alt="apple"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f34e.png" width="80" alt="apple"/>
 
 <br/>
 
@@ -326,11 +326,11 @@
 
 <br/>
 
-<img src="./apple.png" width="90" alt="apple"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f34e.png" width="80" alt="apple"/>
 &nbsp;&nbsp;
-<img src="./deathnote_book.png" width="150" alt="Death Note"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=000000&text=DEATH%20NOTE&fontSize=34&fontColor=ffffff&stroke=FFFFFF&strokeWidth=2&fontAlignY=42&desc=How%20to%20use&descAlignY=72&descSize=14" width="300" alt="Death Note"/>
 &nbsp;&nbsp;
-<img src="./apple.png" width="90" alt="apple"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f34e.png" width="80" alt="apple"/>
 
 <br/>
 
