@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,45:2B0000,100:B80000&text=Talal%20Farooq&fontSize=70&fontColor=ffffff&stroke=E50914&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%F0%9F%93%93%20Software%20Engineer%20%E2%80%A2%20AI-Assisted%20Developer%20%E2%80%A2%20Automation%20Architect%20%F0%9F%8D%8E&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:3A3A3A,100:B3B3B3&text=Talal%20Farooq&fontSize=70&fontColor=ffffff&stroke=FFFFFF&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=%F0%9F%93%93%20Software%20Engineer%20%E2%80%A2%20AI-Assisted%20Developer%20%E2%80%A2%20Automation%20Architect%20%F0%9F%8D%8E&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&weight=700&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Software+Engineer+🚀;ASP.NET+Core+%7C+Express.js+%7C+Laravel+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+SQL+Server;AI+Agents+%26+Automation+Developer+🤖;The+human+whose+bug+is+written+in+this+note+shall+be+fixed+📓;I+am+the+God+of+clean+code+🍎"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&weight=700&size=24&pause=1000&color=E5E5E5&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Talal+Farooq;Software+Engineer+🚀;ASP.NET+Core+%7C+Express.js+%7C+Laravel+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+SQL+Server;AI+Agents+%26+Automation+Developer+🤖;The+human+whose+bug+is+written+in+this+note+shall+be+fixed+📓;I+am+the+God+of+clean+code+🍎"/>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=talal2504a&label=Profile+Views&color=B80000&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=talal2504a&label=Profile+Views&color=3A3A3A&style=for-the-badge"/>
 
 </div>
 
@@ -290,6 +290,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:B80000,55:2B0000,100:000000&text=%22I%20am%20Justice%21%22&fontSize=28&fontColor=ffffff&stroke=E50914&strokeWidth=1&fontAlignY=62&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:B3B3B3,50:3A3A3A,100:000000&text=%22I%20am%20Justice%21%22&fontSize=28&fontColor=ffffff&stroke=FFFFFF&strokeWidth=1&fontAlignY=62&section=footer"/>
 
 </div>
